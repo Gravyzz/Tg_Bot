@@ -3,7 +3,7 @@ import asyncio
 from aiogram.types import ChatJoinRequest
 from aiogram import Bot, Dispatcher, F
 import logging
-bot_token = "6508154302:AAGX1pZ8HiCiN4fXl6fI42963Xd7PraLlP8"
+bot_token = "(id bot)"
 channel_id = -1002038618240
 admin_id = 1001151147
 
