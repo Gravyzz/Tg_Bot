@@ -4,8 +4,8 @@ from aiogram.types import ChatJoinRequest
 from aiogram import Bot, Dispatcher, F
 import logging
 bot_token = "(id bot)"
-channel_id = -1002038618240
-admin_id = 1001151147
+channel_id = 
+admin_id = 
 
 async def approve_request(chat_join: ChatJoinRequest, bot: Bot):
     msg = F"<b>Рады приветствовать тебя в нашем телеграмм канале🤍.</b>\r\n\r\n"\
